@@ -655,7 +655,7 @@ html = f"""
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Ultimate Katamino SOlver</title>
+        <title>Ultimate Katamino Solver</title>
         {style}
     </head>
     <body>
